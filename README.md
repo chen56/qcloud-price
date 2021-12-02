@@ -7,6 +7,7 @@
 | 版本 | 下载连接                                                                                 | 备注     |
 | ---- | ---------------------------------------------------------------------------------------- | -------- |
 | 0.1  | [price.xlsx](https://ruf.coding.net/p/kou/d/qcloud-price/git/raw/release-0.1/price.xlsx) | 首发版本 |
+| 0.2  | [price.xlsx](https://ruf.coding.net/p/kou/d/qcloud-price/git/raw/release-0.2/price.xlsx) | 增加产品过滤器 |
 
 ## 当前支持的报价产品
 
